@@ -1,4 +1,4 @@
-name: pandas-dev
+name: pandas
 channels:
   - conda-forge
 dependencies:
